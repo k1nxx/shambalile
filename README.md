@@ -2,7 +2,7 @@
 <br />
 
 <div align="center">
-  <p text-size=20>🌷</p>
+  <p style="font-size: 25;">🌷</p>
   <h3 align="center">Shambalile</h3>
 
   <p align="center">
