@@ -51,14 +51,10 @@ Early detection systems can be cruical for farmers.
 
 ## Phases
 
-### Phase 1 (Light and Temperature)
-#### Light
+### (Phase 1 (Light))[https://github.com/k1nxx/shambalile/wiki/Phase-1-Analysis]
 
-#### Temperature
+Light can be one of the most contributing factors in a plants growth, reliant on a multitude of parameters.
 
-#### Sensors
-
-#### Detection with AI
 
 ---
 
