@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/k1nxx/shambalile/blob/main/project%20banner.jpg?raw=true" width="100" alt="Shambalile">
+  <img src="https://github.com/k1nxx/shambalile/blob/main/project%20banner.jpg?raw=true" height="100" alt="Shambalile">
 </p>
 
 # Shambalile
