@@ -1,10 +1,12 @@
 ![Project Banner](https://github.com/k1nxx/shambalile/blob/main/banner.png)
 <br />
+
 <div align="center">
+  <p text-size=20>🌷</p>
   <h3 align="center">Shambalile</h3>
 
   <p align="center">
-    <i>*the persian name for the plant Fenugreek\*</i>
+    <i>the persian name for the plant Fenugreek</i>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
