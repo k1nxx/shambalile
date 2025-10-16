@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://github.com/k1nxx/shambalile/blob/main/project%20banner.jpg?raw=true" height="100" alt="Shambalile">
-</p>
 
+*Photo by <a href="https://unsplash.com/@afshint2y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Afshin T2Y</a> on <a href="https://unsplash.com/photos/a-man-standing-in-a-field-with-a-herd-of-sheep-XxK19EYWcWo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+      
 # Shambalile
 
 */\*the persian name for the plant Fenugreek\*/*
@@ -12,26 +11,26 @@ Iran has been struggling with an upcoming pandemic of water shortage, including 
 
 ## Goals
 
-### Monitoring
+### 📈 Monitoring
 
-#### Harmful chemicals
+#### 🧪 Harmful chemicals
 
 A significant trend of smoking has caused harm to many water sources leading to different crops used daily by the iranian population. Providing insights to these chemicals stand as one of the key motives of this project.
 
-#### Wind, water, air
+#### 💧 Wind, water, air
 
 Monitoring wind, water, and air are amongst the most important contributors to this cause providing key details as where strategical locations for specifics plants may be. 
 
-#### Video
+#### 🎥 Video
 
 Video monitoring can also be a key insight for farmers, providing easy decision making.
 
-#### Sun light
+#### ☀️ Sun light
 
 The growth of plants heavily rely on adaquate sunlight. Monitoring exact sunlight levels and changes during hours of the day, by using both gathered data and trends aswell as weather trends can lead farmers to make the best decisions in a split second!
 
 ### Patterns and Predictions
 
-#### Fire, Floods, and Derecho 
+#### 🌪 Fire, Floods, and Derecho 
 
 Early detection systems can be cruical for farmers. 
