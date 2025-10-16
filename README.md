@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/banner.png](https://github.com/k1nxx/shambalile/blob/main/project%20banner.jpg?raw=true" width="800" alt="Project Banner">
+  <img src="https://github.com/k1nxx/shambalile/blob/main/project%20banner.jpg?raw=true" width="800" alt="Shambalile">
 </p>
 
 # Shambalile
