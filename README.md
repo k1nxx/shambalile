@@ -49,7 +49,9 @@ The growth of plants heavily rely on adaquate sunlight. Monitoring exact sunligh
 
 Early detection systems can be cruical for farmers. 
 
-### Top contributors:
+---
+
+## Top contributors:
 
 <a href="https://github.com/k1nxx/shambalile/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=k1nxx/shambalile" />
