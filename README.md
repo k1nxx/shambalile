@@ -43,7 +43,7 @@ Video monitoring can also be a key insight for farmers, providing easy decision 
 
 The growth of plants heavily rely on adaquate sunlight. Monitoring exact sunlight levels and changes during hours of the day, by using both gathered data and trends aswell as weather trends can lead farmers to make the best decisions in a split second!
 
-### Patterns and Predictions
+### 🧑‍🔬 Patterns and Predictions
 
 #### 🌪 Fire, Floods, and Derecho 
 
