@@ -49,6 +49,17 @@ The growth of plants heavily rely on adaquate sunlight. Monitoring exact sunligh
 
 Early detection systems can be cruical for farmers. 
 
+## Phases
+
+### Phase 1 (Light and Temperature)
+#### Light
+
+#### Temperature
+
+#### Sensors
+
+#### Detection with AI
+
 ---
 
 ## Top contributors:
@@ -70,5 +81,8 @@ Project Link: [https://github.com/k1nxx/shambalile/](https://github.com/k1nxx/sh
 ## Credits and Thanks
 
 We stand by Iranian Farmers.
+
+- [Signifance of light on plants by RHS](https://www.rhs.org.uk/advice/understanding-plants/how-plants-use-light-to-grow)
+- [Envrionmental variables on plant growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC7600060/#sec1-plants-09-01312)
 
 *Banner photo by <a href="https://unsplash.com/@afshint2y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Afshin T2Y</a> on <a href="https://unsplash.com/photos/a-man-standing-in-a-field-with-a-herd-of-sheep-XxK19EYWcWo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
