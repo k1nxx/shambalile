@@ -49,14 +49,24 @@ The growth of plants heavily rely on adaquate sunlight. Monitoring exact sunligh
 
 Early detection systems can be cruical for farmers. 
 
-# Contributing
+### Top contributors:
 
-Contributions are always welcome!
+<a href="https://github.com/k1nxx/shambalile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=k1nxx/shambalile" />
+</a>
 
-See `contributing.md` for ways to get started.
+## License
 
-Please adhere to this project's `code of conduct`.
+Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
-# Thanks to
+## Contact
+
+Ryan Samaeian - ryan.samaeian@proton.me
+
+Project Link: [https://github.com/k1nxx/shambalile/](https://github.com/k1nxx/shambalile/)
+
+## Credits and Thanks
+
+We stand by Iranian Farmers.
 
 *Banner photo by <a href="https://unsplash.com/@afshint2y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Afshin T2Y</a> on <a href="https://unsplash.com/photos/a-man-standing-in-a-field-with-a-herd-of-sheep-XxK19EYWcWo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
