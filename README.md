@@ -8,20 +8,18 @@
   <p align="center">
     <i>the persian name for the plant Fenugreek</i>
     <br />
-    <a href="https://github.com/k1nxx/shambalile/"><strong>Explore the docs »</strong></a>
+    <a href="github.com/k1nxx/shambalile/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/k1nxx/shambalile/">View Demo</a>
+    <a href="https://github.com/k1nxx/shambalile/issues">Report Bug</a>
     &middot;
-    <a href="https://github.com/k1nxx/shambalile/">Report Bug</a>
-    &middot;
-    <a href="https://github.com/k1nxx/shambalile/">Request Feature</a>
+    <a href="https://github.com/k1nxx/shambalile/discussions">Request Feature</a>
   </p>
 </div>
 
 ## About
 
-Countries similar to Iran have long struggled to meet agricultural demands due to inadequate infrastructure. We strive to alleviate the hardships of our farmers by providing accessible and affordable tools. Shambalile combines artificial intelligence with sensors to provide key insights enhancing critical decision-making. Intelligent nodes identify environmental variables hindering crop growth, replacing out-dated methods through data-driven prediction and analysis.
+Inadequate infrastructure and outdated methods combined with an increasing demand have resulted in a complex agricultural industry. **Shambalile** is an **accessible** modular node-based system combining artificial intelligence with sensors to provide data-driven predictions and analysis, helping ease the arduous labour in farming. Complex and expensive tools have made farmers resiliant to adapting such technology, we seek to provide a pragmatic solution encompassing different needs to a broad demographic. 
 
 ## Goals
 
