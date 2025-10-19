@@ -61,22 +61,3 @@ Light can be one of the most contributing factors in a plants growth, reliant on
 <a href="https://github.com/k1nxx/shambalile/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=k1nxx/shambalile" />
 </a>
-
-## License
-
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
-
-## Contact
-
-Ryan Samaeian - ryan.samaeian@proton.me
-
-Project Link: [https://github.com/k1nxx/shambalile/](https://github.com/k1nxx/shambalile/)
-
-## Credits and Thanks
-
-We stand by Iranian Farmers.
-
-- [Signifance of light on plants by RHS](https://www.rhs.org.uk/advice/understanding-plants/how-plants-use-light-to-grow)
-- [Envrionmental variables on plant growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC7600060/#sec1-plants-09-01312)
-
-*Banner photo by <a href="https://unsplash.com/@afshint2y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Afshin T2Y</a> on <a href="https://unsplash.com/photos/a-man-standing-in-a-field-with-a-herd-of-sheep-XxK19EYWcWo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
