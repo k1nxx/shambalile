@@ -21,7 +21,7 @@
 
 ## About
 
-Countries similar to Iran have long struggled to meet agricultural demands due to inadequate infrastructure. We strive to alleviate the hardships of our farmers by providing accessible and affordable tools. Shambalile combines artificial intelligence with sensors to provide key insights helping to enhance critical decision making. Intelligent nodes identify environmental variables hindering crop growth replacing old methods through data-driven prediction and analysis.
+Countries similar to Iran have long struggled to meet agricultural demands due to inadequate infrastructure. We strive to alleviate the hardships of our farmers by providing accessible and affordable tools. Shambalile combines artificial intelligence with sensors to provide key insights enhancing critical decision-making. Intelligent nodes identify environmental variables hindering crop growth, replacing out-dated methods through data-driven prediction and analysis.
 
 ## Goals
 
