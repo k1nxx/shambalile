@@ -21,7 +21,7 @@
 
 ## About
 
-Iran has been struggling with an upcoming pandemic of agricultural resource shortage, including the cost of expensive important systems this project seeks to shine a light upon this cause and contribute to its success. This project strives to provide accessible and easily configurable nodes to farmers around the world unveiling useful and adaptible insights to their environment.
+Countries similar to Iran have long struggled to meet agricultural demands due to inadequate infrastructure. We strive to alleviate the hardships of our farmers by providing accessible and affordable tools. Shambalile combines artificial intelligence with sensors to provide key insights helping to enhance critical decision making. Intelligent nodes identify environmental variables hindering crop growth replacing old methods through data-driven prediction and analysis.
 
 ## Goals
 
