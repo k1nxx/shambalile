@@ -17,33 +17,39 @@
   </p>
 </div>
 
-## About
+# About
 
-Inadequate infrastructure and outdated methods combined with an increasing demand have resulted in a complex agricultural industry. **Shambalile** is an **accessible** modular node-based system combining artificial intelligence with sensors to provide data-driven predictions and analysis, helping ease the arduous labour in farming. Complex and expensive tools have made farmers resiliant to adapting such technology, we seek to provide a pragmatic solution encompassing different needs to a broad demographic. 
+Inadaquate infrastructure and oudated farming methods have led to the decline of agricultural development in countrise such as Iran. 
+**Shambalile** serves as a scalable and pragmatic solution, nodes scattered across fields give critical insights to environmental factors.
+Shambalile integrates AI with evidence based research and dyanmic feedback feedback. 
+Shamabalile is modular
+Shambalile eases the labour in ardous farming
+Shambalile provides data-driven predictions and analysis
 
-## Goals
 
-### 📈 Monitoring
+# Goals
 
-#### 🧪 Harmful chemicals
+## 📈 Monitoring
+
+### 🧪 Harmful chemicals
 
 A significant trend of smoking has caused harm to many water sources leading to different crops used daily by the iranian population. Providing insights to these chemicals stand as one of the key motives of this project.
 
-#### 💧 Wind, water, air
+### 💧 Wind, water, air
 
 Monitoring wind, water, and air are amongst the most important contributors to this cause providing key details as where strategical locations for specifics plants may be. 
 
-#### 🎥 Video
+## 🎥 Video
 
 Video monitoring can also be a key insight for farmers, providing easy decision making.
 
-#### ☀️ Sun light
+### ☀️ Sun light
 
 The growth of plants heavily rely on adaquate sunlight. Monitoring exact sunlight levels and changes during hours of the day, by using both gathered data and trends aswell as weather trends can lead farmers to make the best decisions in a split second!
 
-### 🧑‍🔬 Patterns and Predictions
+## 🧑‍🔬 Patterns and Predictions
 
-#### 🌪 Fire, Floods, and Derecho 
+### 🌪 Fire, Floods, and Derecho 
 
 Early detection systems can be cruical for farmers. 
 
