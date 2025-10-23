@@ -19,7 +19,7 @@
 
 # About
 
-Inadaquate infrastructure has been hampered by outdated methods as a result agriculture has declined in many countries such as Iran. **Shambalile** serves as a scalable and pragmatic monitoring solution offering critical insights to environmental factors. A modular node-based system integrates artificial intelligence providing data-driven solutions and adaquate feedbackt. 
+Inadequate infrastructure has been hampered by outdated methods as a result agriculture has declined in many countries such as Iran. **Shambalile** serves as a scalable and pragmatic monitoring solution offering critical insights to environmental factors. A modular node-based system integrates artificial intelligence providing data-driven solutions and adaquate feedback. We aim to streamline the process of agricultural benefiting hobbyists and farmers alike, mitigating obsolete time consuming trial-and-error practices.
 
 # Goals
 
