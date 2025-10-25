@@ -19,7 +19,7 @@
 
 # About
 
-Inadequate infrastructure has been hampered by outdated methods as a result agriculture has declined in many countries such as Iran. **Shambalile** serves as a scalable and pragmatic monitoring solution offering critical insights to environmental factors. A modular node-based system integrates artificial intelligence providing data-driven solutions and adaquate feedback. We aim to streamline the process of agricultural benefiting hobbyists and farmers alike, mitigating obsolete time consuming trial-and-error practices.
+Harsh environmental conditions cultivated by inadequate practices has resulted in inefficient farming. Harsh environments like the Middle east have been degraded by climate change has resulting in scarce goods. Farmers can not afford to use out-dated methods such as trial-and-error as lost opportunities are costly and detrimental to societal growth. A pragmatic and accessible solution is required to monitor fluctuations and give real-time research-backed solutions.
 
 # Goals
 
@@ -31,7 +31,7 @@ A significant trend of smoking has caused harm to many water sources leading to 
 
 ### 💧 Wind, water, air
 
-Monitoring wind, water, and air are amongst the most important contributors to this cause providing key details as where strategical locations for specifics plants may be. 
+Monitoring wind, water, and air are amongst the most important contributors to this cause providing key details as where strategical locations for specifics plants may be.
 
 ## 🎥 Video
 
@@ -43,9 +43,9 @@ The growth of plants heavily rely on adaquate sunlight. Monitoring exact sunligh
 
 ## 🧑‍🔬 Patterns and Predictions
 
-### 🌪 Fire, Floods, and Derecho 
+### 🌪 Fire, Floods, and Derecho
 
-Early detection systems can be cruical for farmers. 
+Early detection systems can be cruical for farmers.
 
 ## Phases
 
@@ -53,10 +53,9 @@ Early detection systems can be cruical for farmers.
 
 Light can be one of the most contributing factors in a plants growth, reliant on a multitude of parameters.
 
-
 ---
 
-## Top contributors:
+## Top contributors
 
 <a href="https://github.com/k1nxx/shambalile/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=k1nxx/shambalile" />
